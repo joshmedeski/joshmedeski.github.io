@@ -1,22 +1,24 @@
 {
-  "name": "browser-sync-jekyll",
+  "name": "josh-medeski",
   "version": "0.0.0",
-  "description": "A starter project including full setup for Jekyll, GulpJS, SASS & BrowserSync",
+  "description": "Website for Josh Medeski",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Shane Osbourne",
-  "license": "ISC",
+  "author": "Josh Medeski",
+  "license": "MIT",
   "devDependencies": {
-    "gulp": "^3.8.8",
-    "gulp-sass": "^2.1.0",
     "browser-sync": "^1.3.7",
-    "gulp-autoprefixer": "1.0.0"
+    "foundation-font-awesome-buttons": "^3.3.2",
+    "foundation-sites": "^6.4.4-rc1",
+    "gulp": "^3.8.8",
+    "gulp-autoprefixer": "1.0.0",
+    "gulp-sass": "^2.1.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shakyShane/jekyll-gulp-sass-browser-sync.git"
+    "url": "https://github.com/joshmedeski/joshmedeski.github.io"
   },
   "keywords": [
     "jekyll",
@@ -25,7 +27,7 @@
     "browsersync"
   ],
   "bugs": {
-    "url": "https://github.com/shakyShane/jekyll-gulp-sass-browser-sync/issues"
+    "url": "https://github.com/joshmedeski/joshmedeski.github.io"
   },
-  "homepage": "https://github.com/shakyShane/jekyll-gulp-sass-browser-sync"
+  "homepage": "https://joshmedeski.com"
 }
